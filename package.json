@@ -16,5 +16,8 @@
     "express": "^4.19.2",
     "redis": "^4.6.15",
     "simple-git": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
   }
 }
